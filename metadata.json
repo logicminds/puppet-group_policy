@@ -1,0 +1,14 @@
+{
+  "name": "lmc-group_policy",
+  "version": "0.1.0",
+  "author": "Corey Osman",
+  "summary": "A windows only puppet module for managing group policies",
+  "license": "Apache 2.0",
+  "source": "https://github.com/logicminds/puppet-group_policy.git",
+  "project_page": "https://github.com/logicminds/puppet-group_policy",
+  "issues_url": "https://github.com/logicminds/puppet-group_policy/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
